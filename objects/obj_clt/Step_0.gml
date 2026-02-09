@@ -4,6 +4,12 @@
 y++;
 
 
+
+if(global.pontos >= global.vel_spwan){
+	y = y + 2;
+}
+
+
 if(y >= 335){
 	instance_destroy();
 }

@@ -12,3 +12,7 @@ if(x >= 100){
 	image_yscale = 1;
 }
 
+if(y >= 330){
+	
+	instance_destroy();
+}

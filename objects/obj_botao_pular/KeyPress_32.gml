@@ -2,9 +2,8 @@
 // Você pode escrever seu código neste editor
 
 
-global.pontos = 0;
-audio_stop_sound(snd_musica);
-room_restart();
 
+
+room_goto_next();
 
 

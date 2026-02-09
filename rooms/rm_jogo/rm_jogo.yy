@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "rm_jogo",
   "isDnd": false,
   "volume": 1.0,
   "parentRoom": null,
@@ -28,8 +28,8 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_3516954","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_2F068822","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_3516954","path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"inst_2F068822","path":"rooms/rm_jogo/rm_jogo.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

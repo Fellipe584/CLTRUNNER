@@ -12,3 +12,7 @@ if(x >= 100){
 }
 
 
+if(y >= 330){
+
+	instance_destroy();
+}
