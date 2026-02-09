@@ -7,7 +7,7 @@
 
 	global.pontos = 0;
 	global.max_pontos = 0;
-	global.vel_spwan = 5;
+	global.vel_spwan = 10;
 
 #endregion
 

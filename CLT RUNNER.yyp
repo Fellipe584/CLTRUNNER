@@ -30,6 +30,7 @@
     {"id":{"name":"spr_bg_2","path":"sprites/spr_bg_2/spr_bg_2.yy",},"order":1,},
     {"id":{"name":"snd_musica","path":"sounds/snd_musica/snd_musica.yy",},"order":1,},
     {"id":{"name":"obj_clt","path":"objects/obj_clt/obj_clt.yy",},"order":1,},
+    {"id":{"name":"fnt_txt","path":"fonts/fnt_txt/fnt_txt.yy",},"order":0,},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},"order":0,},
   ],
   "Options": [
