@@ -10,7 +10,7 @@ var _local = random_range(-70, -140);
 instance_create_layer(149, _local, "Clt", obj_clt);
 
 
-var _tempo = choose(8);
+var _tempo = choose(8, 14);
 
 alarm[1] = room_speed * _tempo;
 
