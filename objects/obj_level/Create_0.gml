@@ -9,7 +9,7 @@ global.musica =  audio_play_sound(snd_musica, 10, 1);
 
 alarm[0] = room_speed;
 
-alarm[1] = room_speed;
+alarm[1] = room_speed * 2;
 
 alarm[2] = room_speed * 5;
 

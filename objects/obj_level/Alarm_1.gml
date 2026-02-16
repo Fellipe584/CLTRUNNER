@@ -5,7 +5,7 @@
 
 
 //var _local = random_range(-10, -100);
-var _local = random_range(-70, -140);
+var _local = -70;
 
 instance_create_layer(149, _local, "Clt", obj_clt);
 
