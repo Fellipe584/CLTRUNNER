@@ -11,7 +11,7 @@ var _local = -5;
 instance_create_layer(32, _local, "Clt", obj_clt);
 
 
-var _tempo = choose(5, 10);
+var _tempo = random_range(5, 10);
 
 
 if(global.pontos < global.vel_spwan){
